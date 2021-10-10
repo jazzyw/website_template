@@ -118,7 +118,7 @@ p {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-gap: 20px;
 } */
-
+/* 
 .galleryImg {
     max-width: 100%;
     border-radius: 10px;
@@ -130,7 +130,7 @@ p {
 .galleryImg:hover {
     transform: translateY(-2px);
     box-shadow: 3px 3px 10px black;
-}
+} */
 
 #popup {
     /* popup will stay in one spot no matter how you scroll and take up the entire page */
